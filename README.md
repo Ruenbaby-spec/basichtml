@@ -1,5 +1,5 @@
 # basichtml
-https://ruenbaby-spec.github.io/basichtml/
+
 # HTML Portfolio Website (No CSS)
 
 This is a simple frontend developer portfolio project built using **pure HTML only**, without any CSS styling. It demonstrates proper HTML layout and structure using semantic tags and tables for layout.
@@ -18,7 +18,7 @@ This is a simple frontend developer portfolio project built using **pure HTML on
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `index.html` in any web browser to view the homepage.
+2. Open `https://ruenbaby-spec.github.io/basichtml/` in any web browser to view the homepage.
 3. Use the navigation links (Home, Contact, Projects, Articles) to explore other pages.
 
 ## 📄 Pages Overview
